@@ -15,3 +15,24 @@ We employ:
 
 ## Dataset
 The dataset consists of historical Amazon stock prices
+
+## Project Workflow
+1. **Data Preprocessing**  
+   - Handling missing values, outliers, and formatting the dataset for analysis.  
+   - Splitting data into training and testing sets.
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Visualizing historical trends and key insights.  
+   - Calculating descriptive statistics.
+
+3. **Statistical Analysis**  
+   - Testing relationships between variables.  
+   - Performing stationarity tests and data transformation for time-series modeling.
+
+4. **Model Implementation**  
+   - Implementing ARIMA, LSTM, and Transformer models.  
+   - Comparing their performance based on metrics like RMSE and MAE.
+
+5. **Result Interpretation**  
+   - Analyzing the forecast results from each model.  
+   - Evaluating which model performs best for Amazon stock price prediction.
